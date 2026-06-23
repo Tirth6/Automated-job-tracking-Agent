@@ -1,0 +1,11 @@
+{
+  "title": "Junior Data Analyst",
+  "company_name": "Target Company",
+  "job_description": "A clean, concise 2-sentence summary of the core responsibilities from the posting.",
+  "cover_letter": "Dear Hiring Team, I am writing to express my interest in the Analyst role. My background in operational quality control and professional communication has equipped me with strong skills in data auditing, tracking metrics, and translating user trend feedback into actionable business solutions...",
+  "city": "Target City",
+  "applyurl": "https://example-job-board.com",
+  "date": "2026-06-23"
+}
+
+*Note: The JSON block displayed above is an anonymised functional sample. To protect project logic, proprietary workflows, and data configurations, the actual data keys and live extraction outputs are kept confidential.*
